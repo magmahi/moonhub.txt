@@ -1,0 +1,21 @@
+ Creating repository in github
+ After that creating a new file witn end of the file name as .txt
+ Save the file using commit changes this is Preserves and stores your work like save button
+ Create one empty floder in your desktop (name the floder like u wish)
+ Go to VS code and open floder that created in desktop
+ And click on terminal ------> open new terminal
+ After that give comment to clone github file in to VS code (git clone " origin ntg but link ")
+ Where to take origin from------> go to github click on your repository---->you can see the code ---->click on that ---->you will get origin
+ Once completed the clone then change the repository to local one
+ to change repository to local one type comments like (cd " repository name ") 
+ after that see the status of git using (git status)
+ Add new file in vs code
+ To clone that Vs code new file to git hub follow below steps
+ Comment like (git add "newfile name created in vs code")
+ View git status and check the file is displaying in git hub or not
+After added the file check status
+And commit the file with message (git commit -m "newfile name created in vs with message")
+Still that file is not showing in git hub
+Then push comments(git push origin)
+Once you done these above mentioned steps after you can easily call the file that was created in git hub usingb pull(git pull)
+
